@@ -1,1 +1,9 @@
 # mancer-personal-vault
+transaksi gagal
+0x3cd8e77aa02c0a9e5602cf78233e8fdce3f6f0003730a5811f814112cc3991c7
+transaksi deposit berhasil
+0x776a9ec49c918c91a42bcb109c964ba8dd04df1c79ff9f96547f43c54670c79a
+transaksi withdraw berhasil
+0x7a0e5af83c74a4cf50039e147257fe8260dc319718bd3879c18a22e5836a42d7
+kontrak address nya
+0x11c6133f0583600C0af24a7d36C0Db5FcaC4eAf4
